@@ -1,10 +1,21 @@
-# Project README
+# SVG Generator
+
+ [![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
+
+## Description
 
 This project allows you to generate a customized logo in SVG format based on user input. The logo can be in the shape of a circle, square, or triangle, and it includes a text element with up to 3 characters. The user can specify the text content, text color, shape color, and shape type through a command-line interface.
 
-## Prerequisites
+## Table of Contents
 
-To run this project, ensure that you have Node.js installed on your system.
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Project Structure](#project-structure)
+  - [Customization](#customization)
+  - [Testing](#testing)
+  - [Questions](#questions)
+  - [Credits](#credits)
+  - [License](#license)
 
 ## Installation
 
@@ -17,6 +28,10 @@ npm install
 ```
 
 ## Usage
+
+<img width="506" alt="image" src="https://github.com/bantonneau/SVG_Generator/assets/109747300/d6402fea-9c3b-4272-8535-03e9f0644699">
+
+(Video Tutorial)[https://drive.google.com/file/d/1uUsoGougYiMxQkpWNQ4dXA3ju2KrQ7De/view]
 
 To generate a logo, follow these steps:
 
@@ -60,9 +75,25 @@ npm test
 
 The tests use the `jest` framework and are defined in the `shapes.test.js` file. They ensure that each shape class renders the correct SVG code based on the specified color.
 
-## Contributing
+## Questions
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's GitHub repository.
+If you have any questions or issues, feel free to reach out to me via one of the following channels:
+
+Email: [benantonn@gmail.com](mailto:benantonn@gmail.com)
+
+GitHub: [@bantonneau](https://github.com/bantonneau)
+
+## Credits
+
+This project was developed by Ben Antonneau. The project builds upon several open-source libraries and frameworks:
+
+- [inquirer](https://www.npmjs.com/package/inquirer): A powerful library for creating interactive command-line interfaces in Node.js.
+
+- [Jest](https://jestjs.io/): A delightful JavaScript testing framework that allows you to write and run tests with ease.
+
+- [Node.js](https://nodejs.org/): A JavaScript runtime environment that provides the necessary tools and capabilities to build and run server-side applications.
+
+Special thanks to the contributors of the open-source libraries and frameworks that were used in this project for their valuable work.
 
 ## License
 
