@@ -31,7 +31,7 @@ npm install
 
 <img width="506" alt="image" src="https://github.com/bantonneau/SVG_Generator/assets/109747300/d6402fea-9c3b-4272-8535-03e9f0644699">
 
-(Video Tutorial)[https://drive.google.com/file/d/1uUsoGougYiMxQkpWNQ4dXA3ju2KrQ7De/view]
+[Video Tutorial](https://drive.google.com/file/d/1uUsoGougYiMxQkpWNQ4dXA3ju2KrQ7De/view)
 
 To generate a logo, follow these steps:
 
